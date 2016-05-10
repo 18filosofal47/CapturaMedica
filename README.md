@@ -1,0 +1,2 @@
+# CapturaMedica
+proyecto de clase
